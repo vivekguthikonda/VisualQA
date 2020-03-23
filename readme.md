@@ -6,10 +6,10 @@ This case study VQA is a task of free-form and open-ended Visual Question Answer
 
 # Dataset
 
-Dataset source : www.visualqa.org/download
-Training annotations 2017 v2.0* : 4,437,570 answers Validation annotations 2017 v2.0* : 2,143,540 answers
-Training questions 2017 v2.0* : 443,757 questions Validation questions 2017 v2.0* : 214,354 questions
-Data format: Image folders containing .jpg images and json files consisting questions and answers.
+- Dataset source : www.visualqa.org/download
+- Training annotations 2017 v2.0* : 4,437,570 answers Validation annotations 2017 v2.0* : 2,143,540 answers
+- Training questions 2017 v2.0* : 443,757 questions Validation questions 2017 v2.0* : 214,354 questions
+- Data format: Image folders containing .jpg images and json files consisting questions and answers.
 
 # Real world Objectives and constraints
 - Predict answers with decent accuracy.
