@@ -22,7 +22,7 @@ Accuracy = no. of correct predictions / no. of total predictions.
 
 # Deep Learning Models
 
-We implement, modify and analyse three modelsarXiv:1505.00468 [cs.CL] , arXiv:1704.03162 [cs.CV], arXiv:1606.00061 [cs.CV]
+We implement, modify and analyse three models arXiv:1505.00468 [cs.CL] , arXiv:1704.03162 [cs.CV], arXiv:1606.00061 [cs.CV]
 ## DeeperLSTM_QI:
 ![](readme_imgs/m1.jpg)
 
